@@ -2,7 +2,7 @@
 As the repository name said.
 
 ### Install instruction
-- Download the latest release `Source Code (.zip)`
+- Download the latest release
 - Extract the contents of the zip file and put them in a folder called `ResCupShowcase`
 - Copy the `ResCupShowcase` folder to `<your_gosumemory_path>/static/`
 - Run osu!, gosumemory and OBS
