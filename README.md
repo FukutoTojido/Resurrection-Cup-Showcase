@@ -1,4 +1,4 @@
-# RESURRECTION CUP SHOWCASE OVERLAY
+# Resurrection Cup Showcase Overlay
 As the repository name said.
 
 ### Install instruction
